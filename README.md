@@ -27,7 +27,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** system designed to an
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/mha66/mkdocs-RAG
     cd RAG
     ```
 
